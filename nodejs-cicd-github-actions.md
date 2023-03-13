@@ -8,7 +8,7 @@
 #### 1. Clone repo to VPS folder
 
 ```bash
-git clone https://github.com/danielwetan/node1.git
+git clone https://github.com/you-user/tou-repo.git
 ```
 
 #### 2. Setup CI workflows
